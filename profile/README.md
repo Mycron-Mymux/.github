@@ -1,6 +1,8 @@
 # Mycron and Mymux 
 This organization contains information and programs about the computers from the Norwegian company [Mycron](https://en.wikipedia.org/wiki/Mycron) and the Mymux operating system that was written to run on the Mycron-1 computers from that company. 
 
+The company still exists, but now under the name [MySoft](https://mysoft.no/). 
+
 ## Mycro-1 computers
 ...
 
