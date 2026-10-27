@@ -11,3 +11,29 @@ Mymux was a distributed multitasking operating system, using Hoare Monitors and 
 
 The documetation, sources and compiled programs provided here are from Professor Otto Anshus' Master's Thesis from 1981. 
 
+## Credits (work in progress).
+A lot of people made contributions that made this possible without showing up in the Git logs. 
+The people include (in alphabetical order): 
+
+- Anders Andersen
+- Arne Maus
+- Benedicte Monrad Krohn
+- Bo Gøran Kvamme
+- Dag Erik Hageseter
+- Erling Staver
+- Frode van der Meeren
+- Henrik Hillestad Løvold
+- Kai Olsen
+- Karin Lilleberg
+- Ken-Arne Jensen
+- Lars Monrad Krohn
+- Martin Hansen
+- Ola Marius Johnsen
+- Otto Anshus
+- Stein Gjessing
+- Terje Fallmyr
+- Tor Sjøwall
+- Tore Brox-Larsen
+- Wolfgang Leister 
+
+There may be more people to add here, but I still have notes that I need to go back and look at. 
